@@ -1,0 +1,11 @@
+{
+	"default": "#foliage",
+	"grass" : "#grass",
+	"tall_grass" : "#grass",
+	"fern" : "#grass",
+	"double_grass" : "#grass",
+	"double_fern" : "#grass",
+	"redstone_wire" : "ff0000",
+	"birch_leaves" : "a6cc80",
+	"spruce_leaves" : "78ba91"
+}

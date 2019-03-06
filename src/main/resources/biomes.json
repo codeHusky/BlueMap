@@ -1,0 +1,250 @@
+{
+  "swampland": {
+    "humidity": 0.8999999761581421,
+    "temp": 0.800000011920929
+  },
+  "jungle_edge": {
+    "humidity": 0.800000011920929,
+    "temp": 0.949999988079071
+  },
+  "mutated_roofed_forest": {
+    "humidity": 0.800000011920929,
+    "temp": 0.699999988079071
+  },
+  "mutated_taiga_cold": {
+    "humidity": 0.4000000059604645,
+    "temp": -0.5
+  },
+  "mutated_forest": {
+    "humidity": 0.800000011920929,
+    "temp": 0.699999988079071
+  },
+  "taiga": {
+    "humidity": 0.800000011920929,
+    "temp": 0.25
+  },
+  "deep_ocean": {
+    "humidity": 0.5,
+    "temp": 0.5
+  },
+  "mesa_rock": {
+    "humidity": 0.0,
+    "temp": 2.0
+  },
+  "taiga_hills": {
+    "humidity": 0.800000011920929,
+    "temp": 0.25
+  },
+  "mesa": {
+    "humidity": 0.0,
+    "temp": 2.0
+  },
+  "hell": {
+    "humidity": 0.0,
+    "temp": 2.0
+  },
+  "mutated_desert": {
+    "humidity": 0.0,
+    "temp": 2.0
+  },
+  "frozen_river": {
+    "humidity": 0.5,
+    "temp": 0.0
+  },
+  "mutated_jungle": {
+    "humidity": 0.8999999761581421,
+    "temp": 0.949999988079071
+  },
+  "birch_forest": {
+    "humidity": 0.6000000238418579,
+    "temp": 0.6000000238418579
+  },
+  "jungle_hills": {
+    "humidity": 0.8999999761581421,
+    "temp": 0.949999988079071
+  },
+  "taiga_cold_hills": {
+    "humidity": 0.4000000059604645,
+    "temp": -0.5
+  },
+  "mutated_extreme_hills_with_trees": {
+    "humidity": 0.30000001192092896,
+    "temp": 0.20000000298023224
+  },
+  "savanna_rock": {
+    "humidity": 0.0,
+    "temp": 1.0
+  },
+  "river": {
+    "humidity": 0.5,
+    "temp": 0.5
+  },
+  "beaches": {
+    "humidity": 0.4000000059604645,
+    "temp": 0.800000011920929
+  },
+  "taiga_cold": {
+    "humidity": 0.4000000059604645,
+    "temp": -0.5
+  },
+  "mutated_jungle_edge": {
+    "humidity": 0.800000011920929,
+    "temp": 0.949999988079071
+  },
+  "mesa_clear_rock": {
+    "humidity": 0.0,
+    "temp": 2.0
+  },
+  "mutated_taiga": {
+    "humidity": 0.800000011920929,
+    "temp": 0.25
+  },
+  "mutated_plains": {
+    "humidity": 0.4000000059604645,
+    "temp": 0.800000011920929
+  },
+  "mutated_birch_forest_hills": {
+    "humidity": 0.6000000238418579,
+    "temp": 0.6000000238418579
+  },
+  "stone_beach": {
+    "humidity": 0.30000001192092896,
+    "temp": 0.20000000298023224
+  },
+  "sky": {
+    "humidity": 0.5,
+    "temp": 0.5
+  },
+  "mutated_mesa_rock": {
+    "humidity": 0.0,
+    "temp": 2.0
+  },
+  "roofed_forest": {
+    "humidity": 0.800000011920929,
+    "temp": 0.699999988079071
+  },
+  "void": {
+    "humidity": 0.5,
+    "temp": 0.5
+  },
+  "forest": {
+    "humidity": 0.800000011920929,
+    "temp": 0.699999988079071
+  },
+  "desert_hills": {
+    "humidity": 0.0,
+    "temp": 2.0
+  },
+  "frozen_ocean": {
+    "humidity": 0.5,
+    "temp": 0.0
+  },
+  "desert": {
+    "humidity": 0.0,
+    "temp": 2.0
+  },
+  "mutated_mesa_clear_rock": {
+    "humidity": 0.0,
+    "temp": 2.0
+  },
+  "mutated_birch_forest": {
+    "humidity": 0.6000000238418579,
+    "temp": 0.6000000238418579
+  },
+  "ocean": {
+    "humidity": 0.5,
+    "temp": 0.5
+  },
+  "jungle": {
+    "humidity": 0.8999999761581421,
+    "temp": 0.949999988079071
+  },
+  "redwood_taiga_hills": {
+    "humidity": 0.800000011920929,
+    "temp": 0.30000001192092896
+  },
+  "forest_hills": {
+    "humidity": 0.800000011920929,
+    "temp": 0.699999988079071
+  },
+  "mutated_redwood_taiga_hills": {
+    "humidity": 0.800000011920929,
+    "temp": 0.25
+  },
+  "mushroom_island_shore": {
+    "humidity": 1.0,
+    "temp": 0.8999999761581421
+  },
+  "mutated_savanna_rock": {
+    "humidity": 0.0,
+    "temp": 1.0
+  },
+  "extreme_hills_with_trees": {
+    "humidity": 0.30000001192092896,
+    "temp": 0.20000000298023224
+  },
+  "mutated_ice_flats": {
+    "humidity": 0.5,
+    "temp": 0.0
+  },
+  "mutated_extreme_hills": {
+    "humidity": 0.30000001192092896,
+    "temp": 0.20000000298023224
+  },
+  "extreme_hills": {
+    "humidity": 0.30000001192092896,
+    "temp": 0.20000000298023224
+  },
+  "mutated_swampland": {
+    "humidity": 0.8999999761581421,
+    "temp": 0.800000011920929
+  },
+  "mutated_savanna": {
+    "humidity": 0.0,
+    "temp": 1.100000023841858
+  },
+  "mushroom_island": {
+    "humidity": 1.0,
+    "temp": 0.8999999761581421
+  },
+  "birch_forest_hills": {
+    "humidity": 0.6000000238418579,
+    "temp": 0.6000000238418579
+  },
+  "smaller_extreme_hills": {
+    "humidity": 0.30000001192092896,
+    "temp": 0.20000000298023224
+  },
+  "cold_beach": {
+    "humidity": 0.30000001192092896,
+    "temp": 0.05000000074505806
+  },
+  "redwood_taiga": {
+    "humidity": 0.800000011920929,
+    "temp": 0.30000001192092896
+  },
+  "ice_mountains": {
+    "humidity": 0.5,
+    "temp": 0.0
+  },
+  "mutated_mesa": {
+    "humidity": 0.0,
+    "temp": 2.0
+  },
+  "ice_flats": {
+    "humidity": 0.5,
+    "temp": 0.0
+  },
+  "mutated_redwood_taiga": {
+    "humidity": 0.800000011920929,
+    "temp": 0.25
+  },
+  "savanna": {
+    "humidity": 0.0,
+    "temp": 1.2000000476837158
+  },
+  "plains": {
+    "humidity": 0.4000000059604645,
+    "temp": 0.800000011920929
+  }
+}

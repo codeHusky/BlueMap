@@ -1,0 +1,40 @@
+apply plugin:'java'
+
+repositories {
+    mavenCentral()
+}
+
+configurations {
+    shade
+    compile.extendsFrom shade
+}
+
+dependencies {
+    compile 'com.google.guava:guava:21.0'
+    compile 'com.google.code.gson:gson:2.8.0'
+    compile 'org.apache.commons:commons-lang3:3.5'
+    compile group: 'commons-io', name: 'commons-io', version: '2.6'
+    compile 'com.flowpowered:flow-math:1.0.3'
+    compile 'ninja.leaping.configurate:configurate-hocon:3.3'
+    compile 'ninja.leaping.configurate:configurate-gson:3.3'
+}
+
+jar {
+    configurations.shade.each { dep ->
+        from(project.zipTree(dep)){
+            exclude 'META-INF', 'META-INF/**'
+        }
+    }
+}
+
+task zipWebroot(type: Zip) {
+   from fileTree('src/main/webroot')
+   archiveName 'webroot.zip'
+   destinationDir(file('/src/main/resources/'))
+}
+
+//always update the zip before build
+compileJava.dependsOn(zipWebroot)
+
+compileJava.options.compilerArgs.add '-parameters'
+compileTestJava.options.compilerArgs.add '-parameters'
